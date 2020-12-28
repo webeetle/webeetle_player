@@ -1,0 +1,24 @@
+{
+  "font": {
+    "Roboto — 14 pt": {
+      "family": {
+        "value": "Roboto-Medium"
+      }
+    },
+    "Roboto — 11 pt": {
+      "family": {
+        "value": "Roboto-Bold"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "Roboto — 14 pt": {
+        "value": "14"
+      },
+      "Roboto — 11 pt": {
+        "value": "11"
+      }
+    }
+  }
+}

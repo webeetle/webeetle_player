@@ -1,0 +1,25 @@
+{
+  "color": {
+    "text-on-secondary": {
+      "value": "#4B645Aff"
+    },
+    "primary-light": {
+      "value": "#87F8BCff"
+    },
+    "secondary-dark": {
+      "value": "#9ABFADff"
+    },
+    "secondary": {
+      "value": "#CBF2DFff"
+    },
+    "secondary-light": {
+      "value": "#FEFFFFff"
+    },
+    "primary-dark": {
+      "value": "#11935Eff"
+    },
+    "primary": {
+      "value": "#53C48Cff"
+    }
+  }
+}

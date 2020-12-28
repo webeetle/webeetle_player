@@ -1,0 +1,18 @@
+<svg id="list" xmlns="http://www.w3.org/2000/svg" width="315" height="52" viewBox="0 0 315 52">
+  <rect id="Rectangle_238" data-name="Rectangle 238" width="315" height="52" rx="14" fill="#cbf2df"/>
+  <g id="play-small" transform="translate(264.108 10.137)">
+    <g id="Group_1574" data-name="Group 1574" transform="translate(-2.823 -2.728)">
+      <path id="Path_1269-5" data-name="Path 1269-5" d="M2580.01,659.9a16.022,16.022,0,1,1-16.022-16.022h0A16.023,16.023,0,0,1,2580.01,659.9Z" transform="translate(-2545.144 -641.147)" fill="#11935e"/>
+    </g>
+    <g id="play_arrow-24px" data-name="play arrow-24px" transform="translate(8.438 8.35)">
+      <path id="Path_1313" data-name="Path 1313" d="M2562.611,656.3v9.32l7.323-4.661Z" transform="translate(-2557.285 -652.972)" fill="#feffff"/>
+      <path id="Path_1314" data-name="Path 1314" d="M2556.944,652.759h15.977v15.977h-15.977Z" transform="translate(-2556.944 -652.759)" fill="none"/>
+    </g>
+  </g>
+  <g id="The_Dark_Side_of_the_Beetle" data-name="The Dark Side of the Beetle" transform="translate(21.694 11.908)" style="isolation: isolate">
+    <text id="The_Dark_Side_of_the_Beetle-2" data-name="The Dark Side of the Beetle" transform="translate(0.306 10.092)" fill="#4b645a" font-size="11" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">The Dark Side of the Beetle</tspan></text>
+  </g>
+  <g id="Pink_Beetle" data-name="Pink Beetle" transform="translate(21.694 26.945)" style="isolation: isolate">
+    <text id="Pink_Beetle-2" data-name="Pink Beetle" transform="translate(0.306 10.055)" fill="#4b645a" font-size="11" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Pink Beetle</tspan></text>
+  </g>
+</svg>

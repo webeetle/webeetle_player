@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75.517" height="75.518" viewBox="0 0 75.517 75.518">
+  <g id="pause-large" transform="translate(0.25 0.25)">
+    <path id="Path_1263" data-name="Path 1263" d="M2468.93,556.478a37.509,37.509,0,1,1-37.509-37.51,37.508,37.508,0,0,1,37.509,37.51Z" transform="translate(-2393.913 -518.968)" fill="#53c48c" stroke="#feffff" stroke-miterlimit="10" stroke-width="0.5"/>
+    <g id="pause-24px" transform="translate(26.397 26.119)">
+      <path id="Path_1311" data-name="Path 1311" d="M2428,564.917h3.76V551.759H2428Zm7.519-13.158v13.158h3.759V551.759Z" transform="translate(-2422.361 -547.06)" fill="#feffff"/>
+      <path id="Path_1312" data-name="Path 1312" d="M2422,546.759h22.556v22.556H2422Z" transform="translate(-2422 -546.759)" fill="none"/>
+    </g>
+  </g>
+</svg>

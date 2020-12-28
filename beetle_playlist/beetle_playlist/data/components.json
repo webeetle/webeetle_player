@@ -1,0 +1,183 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "ParanoiaSystem",
+  "last_updated": "2020-12-16T11:08:48.425Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "17985abd-72ff-4b34-aef5-d1b5b2ef5427",
+      "related_entity_ids": [
+        "2d574975-13a7-4cec-bf43-5f018f83555b"
+      ],
+      "snippets": {
+        "trigger": "back",
+        "languages": {
+          "javascriptreact": "<Fab size=\"medium\" color=\"secondary\" className={classes.button}>\n\t<SkipPrevious />\n</Fab>",
+          "css": "button: {\n\tboxShadow: 'none'\n}"
+        }
+      },
+      "name": "back",
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/libraries/urn:aaid:sc:EU:9c752167-c1f6-4343-b5c1-5acaa830df2a",
+        "id": "35b80b98-81ab-4ff5-a213-e39c9c8f4da7",
+        "last_sync": "2020-12-16T11:08:48.423Z",
+        "sync": true
+      },
+      "last_updated": "2020-12-23T19:12:53.683Z",
+      "last_updated_by": "ParanoiaSystem"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "3e745092-4107-4431-9cfe-a9c6e0338be5",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "image",
+        "languages": {
+          "javascriptreact": "<Avatar src='' style={{ width: '150px', height: '150px' }}/>"
+        }
+      },
+      "name": "image",
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/libraries/urn:aaid:sc:EU:9c752167-c1f6-4343-b5c1-5acaa830df2a",
+        "id": "919f419e-f050-4df7-80de-67328a409c21",
+        "last_sync": "2020-12-16T11:08:48.423Z",
+        "sync": true
+      },
+      "last_updated": "2020-12-23T19:23:57.048Z",
+      "last_updated_by": "ParanoiaSystem"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "e4efe345-6966-42c0-bdc6-c16b54174ae2",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "playable_item",
+        "languages": {
+          "javascriptreact": "<Card key={value} className={classes.card}>\n  <CardContent>\n    <Grid container direction=\"row\" alignItems=\"center\" spacing={2}>\n      <Grid item xs={10}>\n        <Typography variant=\"subtitle1\">\n          The Dark Side of the Beetle\n        </Typography>\n        <Typography variant=\"subtitle2\" color=\"textSecondary\">\n          Pink Beetle\n        </Typography>\n      </Grid>\n      <Grid item xs={2}>\n        <Box style={{ display: 'flex', justifyContent: 'flex-end' }}>\n          <Fab size=\"small\" color=\"primary\" className={classes.button}>\n            <PlayArrow />\n          </Fab>\n        </Box>\n      </Grid>\n    </Grid>\n  </CardContent>\n</Card>",
+          "css": "card: {\n\tbackgroundColor: theme.palette.secondary.main,\n    marginTop: '5pt',\n    borderRadius: '14px',\n    boxShadow: 'none'\n}"
+        }
+      },
+      "name": "list",
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/libraries/urn:aaid:sc:EU:9c752167-c1f6-4343-b5c1-5acaa830df2a",
+        "id": "e27683f9-34d1-4fa5-827d-60fddfc01f37",
+        "last_sync": "2020-12-16T11:08:48.423Z",
+        "sync": true
+      },
+      "last_updated": "2020-12-23T19:22:23.225Z",
+      "last_updated_by": "ParanoiaSystem"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "d007f033-e51c-49da-bf19-0c0446cda46e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "logo",
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/libraries/urn:aaid:sc:EU:9c752167-c1f6-4343-b5c1-5acaa830df2a",
+        "id": "e74e6bf0-66db-4820-a21b-bc610c383347",
+        "last_sync": "2020-12-16T11:08:48.423Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "079ddabe-2906-4262-98ed-7c8dacef5faf",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "pause",
+        "languages": {
+          "javascriptreact": "<Fab size=\"small\" color=\"primary\" className={classes.button}>\n\t<Pause />\n</Fab>"
+        }
+      },
+      "name": "pause",
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/libraries/urn:aaid:sc:EU:9c752167-c1f6-4343-b5c1-5acaa830df2a",
+        "id": "2a53d3e1-ef85-4f8c-bc06-5f735eb3dd50",
+        "last_sync": "2020-12-16T11:08:48.423Z",
+        "sync": true
+      },
+      "last_updated": "2020-12-23T19:20:36.629Z",
+      "last_updated_by": "ParanoiaSystem"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "23d78f7d-4df4-4f00-a425-51e39b353d7e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "pause_large",
+        "languages": {
+          "javascriptreact": "<Fab color=\"primary\" className={classes.button}>\n\t<Pause />\n</Fab>"
+        }
+      },
+      "name": "pause-large",
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/libraries/urn:aaid:sc:EU:9c752167-c1f6-4343-b5c1-5acaa830df2a",
+        "id": "966b18b8-770c-4786-94f5-ce948c1e4a54",
+        "last_sync": "2020-12-16T11:08:48.423Z",
+        "sync": true
+      },
+      "last_updated": "2020-12-23T19:19:08.249Z",
+      "last_updated_by": "ParanoiaSystem"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "688fa179-ea8d-40e2-ab2c-f0637befadc9",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "small_play",
+        "languages": {
+          "javascriptreact": "<Fab size=\"small\" color=\"primary\" className={classes.button}>\n\t<PlayArrow />\n</Fab>"
+        }
+      },
+      "name": "play-small",
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/libraries/urn:aaid:sc:EU:9c752167-c1f6-4343-b5c1-5acaa830df2a",
+        "id": "4aaf7717-b280-44e3-80c3-44748a053252",
+        "last_sync": "2020-12-16T11:08:48.423Z",
+        "sync": true
+      },
+      "last_updated": "2020-12-23T19:16:22.175Z",
+      "last_updated_by": "ParanoiaSystem"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "e5dd6b6c-39ea-4553-9f2c-06eac7592a68",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "skip",
+        "languages": {
+          "javascriptreact": "<Fab size=\"medium\" color=\"secondary\" className={classes.button}>\n\t<SkipNext />\n</Fab>"
+        }
+      },
+      "name": "skip",
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/libraries/urn:aaid:sc:EU:9c752167-c1f6-4343-b5c1-5acaa830df2a",
+        "id": "e29a4cdf-5b3e-4bad-9aca-873f82d837d3",
+        "last_sync": "2020-12-16T11:08:48.423Z",
+        "sync": true
+      },
+      "last_updated": "2020-12-23T19:17:44.182Z",
+      "last_updated_by": "ParanoiaSystem"
+    }
+  ]
+}
